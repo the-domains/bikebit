@@ -1,0 +1,28 @@
+name: Bikebit
+favicon: null
+layout_spectrum: 0.3868891180027276
+typography_spectrum: 0.7574792236555368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48155270190909505
+  lightness: 0.6131620933301747
+  saturation: 0.3919555046595633
+  rhythmicContrast: 0.31926434044726193
+purpose: []
